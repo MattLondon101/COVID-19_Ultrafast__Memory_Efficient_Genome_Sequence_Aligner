@@ -9,5 +9,11 @@ This repository describes the process of taking a .fasta file of DNA sequences, 
 
 **Requirements**
 * Linux OS (I used Windows Subsystem for Linux (WSL) in Visual Studio Code in Windows 10)
+* Conda: [Instructions for installation](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+
+## Installation
+**Bowtie2**
+In linux terminal
+
 
 
