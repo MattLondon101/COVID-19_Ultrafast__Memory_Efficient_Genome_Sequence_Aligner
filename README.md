@@ -6,4 +6,4 @@ Next Generation Sequencing affords high-throughput genome sequencing via library
 This repository describes the process of taking a .fasta file of DNA sequences, aligning them with Bowtie 2, and visualizing and analyzing them with Samtools.
 
 **Requirements**
-* Linux OS (I used Windows Subsystem for Linux (WSL) in Windows 10)
+* Linux OS (I used Windows Subsystem for Linux (WSL) in Visual Studio Code in Windows 10)
