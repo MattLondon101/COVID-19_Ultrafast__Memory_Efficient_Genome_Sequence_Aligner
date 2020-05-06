@@ -14,7 +14,7 @@ This repository describes the process of taking a .fasta file of DNA sequences, 
 ## Installation
 **Bowtie2**
 
-In linux terminal enter:
+In Linux terminal enter:
 ```
 conda install bowtie2
 ```
