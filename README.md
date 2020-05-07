@@ -1,5 +1,5 @@
 # COVID-19 Ultrafast, Memory-Efficient Genome Sequence Aligner
-Ultrafast and memory-efficient genome aligning with Bowtie 2 and visualization with Samtools
+Ultrafast and memory-efficient genome aligning with Bowtie 2 and visualization with Interactive Genomics Viewer (IGV)
 
 <a href="url"><img src="https://github.com/MattLondon101/Images/blob/master/samtools.png" align="center" height="422" width="723" ></a>
 
