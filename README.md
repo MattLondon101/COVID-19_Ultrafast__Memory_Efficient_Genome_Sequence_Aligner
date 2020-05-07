@@ -36,7 +36,7 @@ create .bai index file
 ```
 samtools index nucleotide_all2056_NCBI.bam
 ```
-view in IGV by loading both .bam and .bai
+View in IGV by loading both .bam and .bai
 
 
 
