@@ -12,7 +12,6 @@ This repository describes the process of taking a .fasta file of DNA sequences, 
 * Conda: [Instructions for installation](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
 * Genome sequences: In this case, I will be using COVID-19 cDNA sequences from NCBI.
 
-## Installation
 **Bowtie2**
 
 In Linux terminal enter:
