@@ -19,6 +19,27 @@ In Linux terminal enter:
 ```
 conda install bowtie2
 ```
-Go to or make your working directory.
+In you working directory:
+```
+# build database
+bowtie2-build -f nucleotide_all2056_NCBI.fasta covid_all_db
+```
+align sequences in .fasta and save as .sam
+```
+bowtie2 -f -x covid_all_db -U nucleotide_all2056_NCBI.fasta -S nucleotide_all2056_NCBI.sam
+```
+.sam to binary .bam
+```
+samtools view -Sb nucleotide_all2056_NCBI.sam > nucleotide_all2056_NCBI.bam
+```
+create .bai index file
+```
+samtools index nucleotide_all2056_NCBI.bam
+```
+view in IGV by loading both .bam and .bai
+
+
+
+
 
 
