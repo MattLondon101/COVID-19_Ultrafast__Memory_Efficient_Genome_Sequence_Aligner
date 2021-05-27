@@ -39,6 +39,6 @@ View in IGV by loading both .bam and .bai
 
 
 
-
+Updated 5/7/21
 
 
